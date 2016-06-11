@@ -2,12 +2,20 @@
 	background-color: #eceff1;
 	padding-top: 129px;
 }
+.indian-throne.profile-page {
+	padding-top: 80px;
+}
 .indian-throne > .indian-throne-navbar {
 	margin-bottom: 0px;
 }
 #indian-throne-nav-tabs {
 	top: 51px;
 	z-index: 999;
+}
+#indian-throne-nav-tabs-mobile {
+	top: 52px;
+	z-index: 999;
+	background-color: WHITE;
 }
 #indian-throne-nav-tabs > li.tab-list > a.tab-heading {
 	border-right: 1px solid #e7edf2;
@@ -1030,6 +1038,9 @@
 }
 .mdi-share-variant:before {
     content: "\f52d";
+}
+.mdi-message-reply:before {
+    content: "\f41e";
 }
 .indian-throne-left-right-menu {
 	padding: 15px 0px;
