@@ -1,0 +1,30 @@
+{
+  "name": "indianthrone",
+  "version": "1.0.0",
+  "description": "Indian Throne angular js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimeshkverma/IndianThrone.git"
+  },
+  "keywords": [
+    "angularjs",
+    "node",
+    "indianthrone"
+  ],
+  "author": "IndianThrone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimeshkverma/IndianThrone/issues"
+  },
+  "homepage": "https://github.com/nimeshkverma/IndianThrone#readme",
+  "dependencies": {
+    "angular": "^1.5.7"
+  },
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
